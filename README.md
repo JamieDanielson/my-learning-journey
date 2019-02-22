@@ -21,12 +21,12 @@ based on [GitHub - kamranahmedse/developer-roadmap: Roadmap to becoming a web de
 ### Front-end
 
 - [ ] HTML
-  - [ ] Learn the basics
-  - [ ] Writing Semantic HTML
-  - [ ] Basic SEO
-  - [ ] Accessibility
+  - [x] Learn the basics
+  - [x] Writing Semantic HTML
+  - [x] Basic SEO
+  - [x] Accessibility
 - [ ] CSS
-  - [ ] Learn the Basics
+  - [x] Learn the Basics
   - [ ] Making Layouts
     - [ ] Floats
     - [ ] Positioning
