@@ -6,11 +6,11 @@ based on [GitHub - kamranahmedse/developer-roadmap: Roadmap to becoming a web de
 
 ### Required for any path
 
-- [ ] Git - Version Control
-- [ ] Basic Terminal Usage
+- [x] Git - Version Control
+- [x] Basic Terminal Usage
 - [ ] Data Structures & Algorithms
 - [ ] SOLID, KISS, YAGNI
-- [ ] Github
+- [x] Github
 - [ ] Licenses
 - [ ] Semantic Versioning
 - [ ] SSH
