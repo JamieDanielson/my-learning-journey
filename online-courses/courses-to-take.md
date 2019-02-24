@@ -8,7 +8,7 @@ A non-exhaustive list of courses and tutorials
 
 ## CSS
 
-- [ ] [CSS Tutorial: Learn CSS For Free \| Codecademy](https://www.codecademy.com/learn/learn-css)
+- [x] [CSS Tutorial: Learn CSS For Free \| Codecademy](https://www.codecademy.com/learn/learn-css)
 - [ ] [Sass Tutorial: Learn Sass For Free \| Codecademy](https://www.codecademy.com/learn/learn-sass)
 - [ ] [A Complete Guide to Flexbox | CSS-Tricks](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 - [ ] [A Complete Guide to Grid | CSS-Tricks](https://css-tricks.com/snippets/css/complete-guide-grid/)
