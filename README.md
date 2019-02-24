@@ -20,22 +20,22 @@ based on [GitHub - kamranahmedse/developer-roadmap: Roadmap to becoming a web de
 
 ### Front-end
 
-- [ ] HTML
+- [x] HTML
   - [x] Learn the basics
   - [x] Writing Semantic HTML
   - [x] Basic SEO
   - [x] Accessibility
-- [ ] CSS
+- [x] CSS
   - [x] Learn the Basics
-  - [ ] Making Layouts
-    - [ ] Floats
-    - [ ] Positioning
-    - [ ] Display
-    - [ ] Box Model
-    - [ ] CSS Grid
-    - [ ] Flexbox
-  - [ ] Media Queries
-  - [ ] Learn CSS 3
+  - [x] Making Layouts
+    - [x] Floats
+    - [x] Positioning
+    - [x] Display
+    - [x] Box Model
+    - [x] CSS Grid
+    - [x] Flexbox
+  - [x] Media Queries
+  - [x] Learn CSS 3
 - [ ] Basics of JavaScript
   - [ ] Syntax and Basic Constructs
   - [ ] Learn DOM Manipulation
