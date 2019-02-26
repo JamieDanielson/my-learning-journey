@@ -41,6 +41,7 @@ A non-exhaustive list of courses and tutorials
 
 ## Databases
 
+- [x] [Learn SQL | Codecademy](https://www.codecademy.com/courses/learn-sql)
 - [ ] [Intro to Relational Databases | Udacity](https://classroom.udacity.com/courses/ud197)
 - [ ] [Intro to SQL: Querying and managing data | Khan Academy](https://www.khanacademy.org/computing/computer-programming/sql)
 
