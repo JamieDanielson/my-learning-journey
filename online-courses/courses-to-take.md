@@ -10,8 +10,8 @@ A non-exhaustive list of courses and tutorials
 
 - [x] [CSS Tutorial: Learn CSS For Free \| Codecademy](https://www.codecademy.com/learn/learn-css)
 - [ ] [Sass Tutorial: Learn Sass For Free \| Codecademy](https://www.codecademy.com/learn/learn-sass)
-- [ ] [A Complete Guide to Flexbox | CSS-Tricks](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
-- [ ] [A Complete Guide to Grid | CSS-Tricks](https://css-tricks.com/snippets/css/complete-guide-grid/)
+- [x] [A Complete Guide to Flexbox | CSS-Tricks](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+- [x] [A Complete Guide to Grid | CSS-Tricks](https://css-tricks.com/snippets/css/complete-guide-grid/)
 
 ## Basic JavaScript
 
@@ -32,7 +32,7 @@ A non-exhaustive list of courses and tutorials
 
 ## General 
 
-- [ ] [Intro to Computer Science | Udacity](https://classroom.udacity.com/courses/cs101)
+- [ ] [CS50x Introduction to Computer Science | HarvardX](https://courses.edx.org/courses/course-v1:HarvardX+CS50+X/course/)
 
 ## Git and Version Control
 
@@ -52,4 +52,4 @@ A non-exhaustive list of courses and tutorials
 
 ## Python
 
-- [ ] [Programming for Everybody (Getting Started with Python) | Coursera](https://www.coursera.org/learn/python/home/welcome)
+- [x] [Programming for Everybody (Getting Started with Python) | Coursera](https://www.coursera.org/learn/python/home/welcome)
