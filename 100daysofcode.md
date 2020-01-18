@@ -8,3 +8,9 @@ Started [Intermediate React Tutorial - Todoist Clone (with Firebase, Custom Hook
 Wes Bos [JavaScript30 - Fun with HTML5 Canvas](https://javascript30.com/)
 
 And just some messing around HTML & CSS
+
+## 3/100
+Wes Bos [JavaScript30 - Dev Tool Domination](https://javascript30.com/)
+
+Created configs directory for eslint, prettier, etc. to use in all projects going forward
+
