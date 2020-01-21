@@ -14,3 +14,7 @@ Wes Bos [JavaScript30 - Dev Tool Domination](https://javascript30.com/)
 
 Created configs directory for eslint, prettier, etc. to use in all projects going forward
 
+## 4/100
+Wes Bos [JavaScript30 - Hold Shift and Check Checkboxes](https://javascript30.com/)
+
+Practiced command line 
