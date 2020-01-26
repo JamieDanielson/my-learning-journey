@@ -18,3 +18,13 @@ Created configs directory for eslint, prettier, etc. to use in all projects goin
 Wes Bos [JavaScript30 - Hold Shift and Check Checkboxes](https://javascript30.com/)
 
 Practiced command line 
+
+## 5/100
+Started Wes Bos [JavaScript30 - Custom HTML5 player](https://javascript30.com/)
+
+Did some work-related tasks
+
+## 6/100
+[Learning and Practicing http requests](https://launchschool.com/books/http/)
+
+Setting up virtual machine
