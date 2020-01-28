@@ -31,3 +31,8 @@ Setting up virtual machine
 
 ## 7/100
 [Codecademy Introduction to JavaScript](https://www.codecademy.com/learn/introduction-to-javascript)
+
+## 8/100
+[freeCodeCamp Basic Javascript](https://www.freecodecamp.org/learn)
+
+Finished "Basic JavaScript" section of JavaScript Algorithms and Data Structures Certification... onto ES6 section.
