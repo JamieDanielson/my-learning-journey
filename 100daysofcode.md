@@ -28,3 +28,6 @@ Did some work-related tasks
 [Learning and Practicing http requests](https://launchschool.com/books/http/)
 
 Setting up virtual machine
+
+## 7/100
+[Codecademy Introduction to JavaScript](https://www.codecademy.com/learn/introduction-to-javascript)
