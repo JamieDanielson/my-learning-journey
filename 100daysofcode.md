@@ -36,3 +36,6 @@ Setting up virtual machine
 [freeCodeCamp Basic Javascript](https://www.freecodecamp.org/learn)
 
 Finished "Basic JavaScript" section of JavaScript Algorithms and Data Structures Certification... onto ES6 section.
+
+## 9/100
+[freeCodeCamp ES6](https://www.freecodecamp.org/learn)
