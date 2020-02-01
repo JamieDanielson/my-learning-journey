@@ -39,3 +39,6 @@ Finished "Basic JavaScript" section of JavaScript Algorithms and Data Structures
 
 ## 9/100
 [freeCodeCamp ES6](https://www.freecodecamp.org/learn)
+
+## 10/100
+[freeCodeCamp ES6](https://www.freecodecamp.org/learn)
