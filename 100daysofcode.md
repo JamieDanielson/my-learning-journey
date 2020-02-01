@@ -42,5 +42,6 @@ Finished "Basic JavaScript" section of JavaScript Algorithms and Data Structures
 
 ## 10/100
 [freeCodeCamp ES6](https://www.freecodecamp.org/learn)
+
 [Khan Academy Relational Tables in SQL(https://www.khanacademy.org/computing/computer-programming/sql)
 
