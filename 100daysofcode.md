@@ -45,3 +45,7 @@ Finished "Basic JavaScript" section of JavaScript Algorithms and Data Structures
 
 [Khan Academy Relational Tables in SQL](https://www.khanacademy.org/computing/computer-programming/sql)
 
+## 11/100
+[CS50X | Harvard](https://cs50.harvard.edu/x/2020/)
+
+
