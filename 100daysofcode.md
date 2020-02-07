@@ -48,4 +48,8 @@ Finished "Basic JavaScript" section of JavaScript Algorithms and Data Structures
 ## 11/100
 [CS50X | Harvard](https://cs50.harvard.edu/x/2020/)
 
+## 12/100
+[freeCodeCamp ES6](https://www.freecodecamp.org/learn)
+
+Finished "ES6" section of JavaScript Algorithms and Data Structures Certification... onto Regular Expressions.
 
