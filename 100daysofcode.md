@@ -53,3 +53,8 @@ Finished "Basic JavaScript" section of JavaScript Algorithms and Data Structures
 
 Finished "ES6" section of JavaScript Algorithms and Data Structures Certification... onto Regular Expressions.
 
+## 13/100
+
+[CSS-Tricks - How to Fetch and Parse RSS Feeds in JavaScript](https://css-tricks.com/how-to-fetch-and-parse-rss-feeds-in-javascript/)
+
+[Codecademy Introduction to JavaScript - Async Await](https://www.codecademy.com/learn/introduction-to-javascript)
