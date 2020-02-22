@@ -58,3 +58,7 @@ Finished "ES6" section of JavaScript Algorithms and Data Structures Certificatio
 [CSS-Tricks - How to Fetch and Parse RSS Feeds in JavaScript](https://css-tricks.com/how-to-fetch-and-parse-rss-feeds-in-javascript/)
 
 [Codecademy Introduction to JavaScript - Async Await](https://www.codecademy.com/learn/introduction-to-javascript)
+
+## 14/100
+
+Learning about and experimenting with APIs i.e. https://uinames.com/ and https://datausa.io/ and https://randomuser.me/ among others
