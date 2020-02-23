@@ -1,5 +1,7 @@
 # Completed Coureses
 
+[Responsive Web Design Certification from freeCodeCamp](https://www.freecodecamp.org/certification/jamied/responsive-web-design)
+
 ## HTML
 
 - [x] [HTML Tutorial: Learn HTML For Free \| Codecademy](https://www.codecademy.com/learn/learn-html)
@@ -44,3 +46,15 @@ A non-exhaustive list of courses and tutorials
 
 - [ ] [Client-Server Communication | Udacity](https://classroom.udacity.com/courses/ud897)
 - [ ] [Designing RESTful APIs | Udacity](https://classroom.udacity.com/courses/ud388)
+
+## Unsorted
+
+- [ ] [Asynchronous JavaScript Requests](https://classroom.udacity.com/courses/ud109)
+- [ ] [Intro to AJAX](https://classroom.udacity.com/courses/ud110)
+- [ ] [JavaScript and the DOM](https://classroom.udacity.com/courses/ud117)
+- [ ] [Intro to Backend](https://classroom.udacity.com/courses/ud171)
+- [ ] [SQL for Data Analysis](https://classroom.udacity.com/courses/ud198)
+- [ ] [Intro to jQuery](https://classroom.udacity.com/courses/ud245)
+- [ ] [Google Maps APIs by Google](https://classroom.udacity.com/courses/ud864)
+- [ ] [Website Performance Optimization](https://classroom.udacity.com/courses/ud884)
+- [ ] [Networking for Web Developers](https://classroom.udacity.com/courses/ud256)
