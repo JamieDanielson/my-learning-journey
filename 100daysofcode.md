@@ -62,3 +62,9 @@ Finished "ES6" section of JavaScript Algorithms and Data Structures Certificatio
 ## 14/100
 
 Learning about and experimenting with APIs i.e. https://uinames.com/ and https://datausa.io/ and https://randomuser.me/ among others
+
+## 15/100
+
+General Programming and Computer Science stuff
+
+[Intro to Programming](https://classroom.udacity.com/courses/ud994)
