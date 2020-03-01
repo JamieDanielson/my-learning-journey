@@ -12,6 +12,10 @@
 - [x] [A Complete Guide to Flexbox | CSS-Tricks](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 - [x] [A Complete Guide to Grid | CSS-Tricks](https://css-tricks.com/snippets/css/complete-guide-grid/)
 
+## JavaScript
+
+- [x] [Introduction to JavaScript | Codecademy](https://www.codecademy.com/learn/introduction-to-javascript)
+
 ## Accessibility
 
 - [x] [Web Accessibility | Udacity](https://classroom.udacity.com/courses/ud891)
@@ -35,7 +39,6 @@ A non-exhaustive list of courses and tutorials
 
 ## Basic JavaScript
 
-- [ ] [Introduction to JavaScript | Codecademy](https://www.codecademy.com/learn/introduction-to-javascript)
 - [ ] [Intro to JavaScript | Udacity](https://classroom.udacity.com/courses/ud803)
 
 ## General 
