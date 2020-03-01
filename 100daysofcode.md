@@ -68,3 +68,8 @@ Learning about and experimenting with APIs i.e. https://uinames.com/ and https:/
 General Programming and Computer Science stuff
 
 [Intro to Programming](https://classroom.udacity.com/courses/ud994)
+
+## 16/100
+
+Completed [Codecademy Introduction to JavaScript!](https://www.codecademy.com/learn/introduction-to-javascript)
+
