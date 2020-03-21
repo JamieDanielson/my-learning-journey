@@ -77,4 +77,6 @@ Completed [Codecademy Introduction to JavaScript!](https://www.codecademy.com/le
 
 [freeCodeCamp Regular Expressions](https://www.freecodecamp.org/learn)
 
-Finished "Regular Expressions" section of JavaScript Algorithms and Data Structures Certification
+[freeCodeCamp Debugging](https://www.freecodecamp.org/learn)
+
+Finished "Regular Expressions" and "Debugging" sections of JavaScript Algorithms and Data Structures Certification
