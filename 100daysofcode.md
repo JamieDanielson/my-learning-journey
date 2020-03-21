@@ -73,3 +73,8 @@ General Programming and Computer Science stuff
 
 Completed [Codecademy Introduction to JavaScript!](https://www.codecademy.com/learn/introduction-to-javascript)
 
+## 17/100
+
+[freeCodeCamp Regular Expressions](https://www.freecodecamp.org/learn)
+
+Finished "Regular Expressions" section of JavaScript Algorithms and Data Structures Certification
