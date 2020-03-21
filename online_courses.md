@@ -1,6 +1,10 @@
 # Completed Coureses
 
+## Certificates
+
 [Responsive Web Design Certification from freeCodeCamp](https://www.freecodecamp.org/certification/jamied/responsive-web-design)
+
+[Google Analytics for Beginners - Certificate](https://analytics.google.com/analytics/academy/certificate/Gdoxg3vRQ_u8t7P7mFKuKA)
 
 ## HTML
 
@@ -23,6 +27,7 @@
 ## General
 
 - [x] [Learn the Command Line | Codecademy](https://www.codecademy.com/learn/learn-the-command-line)
+- [x] [Google Analytics for Beginners | Google](https://analytics.google.com/analytics/academy/course/6)
 
 ## Databases
 
