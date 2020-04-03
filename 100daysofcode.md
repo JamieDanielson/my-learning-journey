@@ -67,7 +67,7 @@ Learning about and experimenting with APIs i.e. https://uinames.com/ and https:/
 
 General Programming and Computer Science stuff
 
-[Intro to Programming](https://classroom.udacity.com/courses/ud994)
+[Intro to Programming | Udacity](https://classroom.udacity.com/courses/ud994)
 
 ## 16/100
 
@@ -80,3 +80,13 @@ Completed [Codecademy Introduction to JavaScript!](https://www.codecademy.com/le
 [freeCodeCamp Debugging](https://www.freecodecamp.org/learn)
 
 Finished "Regular Expressions" and "Debugging" sections of JavaScript Algorithms and Data Structures Certification
+
+## 18/100
+
+[CS50's Understanding Technology | Harvard](https://cs50.harvard.edu/technology/)
+
+Finished Assignment 6
+
+[CS50x | Harvard](https://cs50.harvard.edu/x/2020/) 
+
+Finished Week 1 - C
