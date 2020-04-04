@@ -90,3 +90,7 @@ Finished Assignment 6
 [CS50x | Harvard](https://cs50.harvard.edu/x/2020/) 
 
 Finished Week 1 - C
+
+## 19/100
+
+[JavaScript30 - Custom HTML5 player | Wes Bos](https://javascript30.com/)
