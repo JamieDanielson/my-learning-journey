@@ -94,3 +94,12 @@ Finished Week 1 - C
 ## 19/100
 
 [JavaScript30 - Custom HTML5 player | Wes Bos](https://javascript30.com/)
+
+## 20/100
+
+[JavaScript30 - Key Sequence Detection | Wes Bos](https://javascript30.com/)
+
+[JavaScript30 - Slide in on Scroll | Wes Bos](https://javascript30.com/)
+
+[JavaScript30 - JavaScript References vs Copying | Wes Bos](https://javascript30.com/)
+
