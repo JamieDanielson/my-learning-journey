@@ -109,4 +109,6 @@ Finished Week 1 - C
 
 [Basic Algorithm Scripting | freeCodeCamp](https://www.freecodecamp.org/learn)
 
-Finished "Basic Data Structures" and started "Basic Algorithm Scripting" sections of JavaScript Algorithms and Data Structures Certification
+[Object Oriented Programming | freeCodeCamp](https://www.freecodecamp.org/learn)
+
+Finished "Basic Data Structures" and started "Basic Algorithm Scripting" sections of JavaScript Algorithms and Data Structures Certification.  Started and finished "Object Oriented Programming" section.
