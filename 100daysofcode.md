@@ -103,3 +103,10 @@ Finished Week 1 - C
 
 [JavaScript30 - JavaScript References vs Copying | Wes Bos](https://javascript30.com/)
 
+## 21/100
+
+[Basic Data Structures | freeCodeCamp](https://www.freecodecamp.org/learn)
+
+[Basic Algorithm Scripting | freeCodeCamp](https://www.freecodecamp.org/learn)
+
+Finished "Basic Data Structures" and started "Basic Algorithm Scripting" sections of JavaScript Algorithms and Data Structures Certification
