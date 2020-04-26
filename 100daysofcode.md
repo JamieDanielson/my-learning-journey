@@ -112,3 +112,11 @@ Finished Week 1 - C
 [Object Oriented Programming | freeCodeCamp](https://www.freecodecamp.org/learn)
 
 Finished "Basic Data Structures" and started "Basic Algorithm Scripting" sections of JavaScript Algorithms and Data Structures Certification.  Started and finished "Object Oriented Programming" section.
+
+## 22/100
+
+Miscellaneous SQL practice problems on [HackerRank](https://www.hackerrank.com/domains/sql) and [SQLZOO](https://sqlzoo.net/wiki/SQL_Tutorial)
+
+## 23/100
+
+[JavaScript30 - Local Storage and Event Delegation | Wes Bos](https://javascript30.com/)
