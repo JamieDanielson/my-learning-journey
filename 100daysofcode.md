@@ -120,3 +120,7 @@ Miscellaneous SQL practice problems on [HackerRank](https://www.hackerrank.com/d
 ## 23/100
 
 [JavaScript30 - Local Storage and Event Delegation | Wes Bos](https://javascript30.com/)
+
+[JavaScript30 - CSS Text Shadow Mouse Move Effect | Wes Bos](https://javascript30.com/)
+
+[JavaScript30 - Sort Bands without Articles | Wes Bos](https://javascript30.com/)
