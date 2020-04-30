@@ -8,6 +8,9 @@
 
 [Yoast All-around SEO training Certificate](https://academy.yoast.com/certificate/2883/764696/ddad19c10932809f354e6c774506d1b9/1/)
 
+[Google Tag Manager Fundamentals - Certificate](https://analytics.google.com/analytics/academy/certificate/rLnACpCwSb6QPF4iTSPwMQ)
+
+
 ## HTML
 
 - [x] [HTML Tutorial: Learn HTML For Free \| Codecademy](https://www.codecademy.com/learn/learn-html)
@@ -31,6 +34,7 @@
 - [x] [Learn the Command Line | Codecademy](https://www.codecademy.com/learn/learn-the-command-line)
 - [x] [Google Analytics for Beginners | Google](https://analytics.google.com/analytics/academy/course/6)
 - [x] [Yoast All-Around SEO | Yoast](https://academy.yoast.com/courses/all-around-seo/)
+- [x] [Google Tag Manager Fundamentals | Google](https://analytics.google.com/analytics/academy/course/5)
 
 ## Databases
 
