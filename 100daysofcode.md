@@ -124,3 +124,22 @@ Miscellaneous SQL practice problems on [HackerRank](https://www.hackerrank.com/d
 [JavaScript30 - CSS Text Shadow Mouse Move Effect | Wes Bos](https://javascript30.com/)
 
 [JavaScript30 - Sort Bands without Articles | Wes Bos](https://javascript30.com/)
+
+## 24/100
+
+[JavaScript30 - Sticky Nav | Wes Bos](https://javascript30.com/)
+
+[A re-introduction to JavaScript | MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript)
+
+I skipped ahead to sticky nav because it's highly useful and seemed interesting; simple but super effective!  Then spent some time reading a "reintroduction to JavaScript" on MDN per a suggestion prior to learning React.
+
+Also started outlining and working on a blog, with files in markdown.
+
+## 25/100
+
+[Learn Git Branching](https://learngitbranching.js.org/)
+
+[Learn ReactJS: Part I | Codecademy](https://www.codecademy.com/learn/react-101)
+
+Some practice in git branching, and started LearnReactJS on Codecademy
+
