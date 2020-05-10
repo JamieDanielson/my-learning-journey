@@ -143,3 +143,12 @@ Also started outlining and working on a blog, with files in markdown.
 
 Some practice in git branching, and started LearnReactJS on Codecademy
 
+## 26/100
+
+[Learn the MERN Stack - Full Tutorial | freeCodeCamp](https://youtu.be/7CqJlxBYj-M)
+
+## 27/100
+
+[Learn the MERN Stack - Full Tutorial | freeCodeCamp](https://youtu.be/7CqJlxBYj-M)
+
+Made an exercise log app!
