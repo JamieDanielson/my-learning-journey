@@ -152,3 +152,7 @@ Some practice in git branching, and started LearnReactJS on Codecademy
 [Learn the MERN Stack - Full Tutorial | freeCodeCamp](https://youtu.be/7CqJlxBYj-M)
 
 Made an exercise log app!
+
+## 28/100
+
+Recreated a website from scratch using Bootstrap.
