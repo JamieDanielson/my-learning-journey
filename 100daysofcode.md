@@ -156,3 +156,12 @@ Made an exercise log app!
 ## 28/100
 
 Recreated a website from scratch using Bootstrap.
+
+## 29/100
+
+Finishing touches on website
+
+## 30/100
+
+Deploying website on Netlify, working with Figma
+
