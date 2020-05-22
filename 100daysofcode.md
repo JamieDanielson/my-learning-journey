@@ -165,3 +165,6 @@ Finishing touches on website
 
 Deploying website on Netlify, working with Figma
 
+## 31/100
+
+Worked on homepage replica of "Crosby" template from Squarespace, primarily practicing css grid layouts
