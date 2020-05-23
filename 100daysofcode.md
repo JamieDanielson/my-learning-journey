@@ -168,3 +168,15 @@ Deploying website on Netlify, working with Figma
 ## 31/100
 
 Worked on homepage replica of "Crosby" template from Squarespace, primarily practicing css grid layouts
+
+## 32/100
+
+[Bootstrap | freeCodeCamp](https://www.freecodecamp.org/learn)
+
+[jQuery | freeCodeCamp](https://www.freecodecamp.org/learn)
+
+[Sass | freeCodeCamp](https://www.freecodecamp.org/learn)
+
+[Functional Programming | freeCodeCamp](https://www.freecodecamp.org/learn)
+
+Started Functional Programming section of JavaScript Algorithms and Data Structures Certification. Completed Bootstrap, jQuery, and Sass sections of Front End Libraries Certification.
