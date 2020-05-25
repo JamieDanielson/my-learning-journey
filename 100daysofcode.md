@@ -180,3 +180,7 @@ Worked on homepage replica of "Crosby" template from Squarespace, primarily prac
 [Functional Programming | freeCodeCamp](https://www.freecodecamp.org/learn)
 
 Started Functional Programming section of JavaScript Algorithms and Data Structures Certification. Completed Bootstrap, jQuery, and Sass sections of Front End Libraries Certification.
+
+## 33/100
+
+[SQL for Data Analysis | Udacity](https://classroom.udacity.com/courses/ud198/)
