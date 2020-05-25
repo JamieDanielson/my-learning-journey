@@ -184,3 +184,7 @@ Started Functional Programming section of JavaScript Algorithms and Data Structu
 ## 33/100
 
 [SQL for Data Analysis | Udacity](https://classroom.udacity.com/courses/ud198/)
+
+## 34/100
+
+[JavaScript Crash Course for Beginners | Traversy Media](https://youtu.be/hdI2bqOjy3c)
