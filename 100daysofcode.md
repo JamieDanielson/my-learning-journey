@@ -188,3 +188,6 @@ Started Functional Programming section of JavaScript Algorithms and Data Structu
 ## 34/100
 
 [JavaScript Crash Course for Beginners | Traversy Media](https://youtu.be/hdI2bqOjy3c)
+
+[JSON Crash Course | Traversy Media](https://youtu.be/wI1CWzNtE-M)
+
