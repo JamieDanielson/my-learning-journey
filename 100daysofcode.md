@@ -191,3 +191,4 @@ Started Functional Programming section of JavaScript Algorithms and Data Structu
 
 [JSON Crash Course | Traversy Media](https://youtu.be/wI1CWzNtE-M)
 
+[Basic Algorithm Scripting | freeCodeCamp](https://www.freecodecamp.org/learn)
