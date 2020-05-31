@@ -198,3 +198,7 @@ Started Functional Programming section of JavaScript Algorithms and Data Structu
 [Hour of Code: Simple Encyrption | Code.org](https://studio.code.org/s/hoc-encryption)
 
 [Certificate of Completion - Simple Encryption | Code.org](https://code.org/printcertificate/_1_0204b4a35283a027cb9e1263c26f3ada)
+
+## 36/100
+
+[Build a Netflix Landing Page Clone with HTML, CSS, & JS | Traversy Media](https://youtu.be/P7t13SGytRk)
