@@ -10,6 +10,8 @@
 
 [Google Tag Manager Fundamentals - Certificate](https://analytics.google.com/analytics/academy/certificate/rLnACpCwSb6QPF4iTSPwMQ)
 
+[Hour of Code: Simple Encryption - Certificate from Code.org](https://code.org/printcertificate/_1_0204b4a35283a027cb9e1263c26f3ada)
+
 
 ## HTML
 
