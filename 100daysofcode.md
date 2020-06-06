@@ -202,3 +202,10 @@ Started Functional Programming section of JavaScript Algorithms and Data Structu
 ## 36/100
 
 [Build a Netflix Landing Page Clone with HTML, CSS, & JS | Traversy Media](https://youtu.be/P7t13SGytRk)
+
+## 37/100
+
+[CSS Grid Layout Crash Course](https://youtu.be/jV8B24rSN5o)
+
+[Build a Responsive Grid CSS Website Layout From Scratch | Traversy Media](https://youtu.be/moBhzSC455o)
+
