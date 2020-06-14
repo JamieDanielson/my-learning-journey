@@ -209,3 +209,6 @@ Started Functional Programming section of JavaScript Algorithms and Data Structu
 
 [Build a Responsive Grid CSS Website Layout From Scratch | Traversy Media](https://youtu.be/moBhzSC455o)
 
+## 38/100
+
+Worked on website that will go live soon. Changed out pictures and some services, and updated for accessibility
