@@ -212,3 +212,9 @@ Started Functional Programming section of JavaScript Algorithms and Data Structu
 ## 38/100
 
 Worked on website that will go live soon. Changed out pictures and some services, and updated for accessibility
+
+## 39/100
+
+Practice with CSS Grid and animations. 
+
+[JavaScript30 - Tally String Times with Reduce | Wes Bos](https://javascript30.com/)
