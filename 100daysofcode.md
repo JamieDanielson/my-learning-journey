@@ -218,3 +218,5 @@ Worked on website that will go live soon. Changed out pictures and some services
 Practice with CSS Grid and animations. 
 
 [JavaScript30 - Tally String Times with Reduce | Wes Bos](https://javascript30.com/)
+
+[Node.js Crash Course | Traversy Media](https://www.youtube.com/watch?v=fBNz5xF-Kx4)
