@@ -220,3 +220,9 @@ Practice with CSS Grid and animations.
 [JavaScript30 - Tally String Times with Reduce | Wes Bos](https://javascript30.com/)
 
 [Node.js Crash Course | Traversy Media](https://www.youtube.com/watch?v=fBNz5xF-Kx4)
+
+## 40/100
+
+Some practice projects on [Front End Mentor](https://www.frontendmentor.io/) including [Four Card feature section](https://www.frontendmentor.io/challenges/four-card-feature-section-weK1eFYK) and [Single price grid component](https://www.frontendmentor.io/challenges/single-price-grid-component-5ce41129d0ff452fec5abbbc)
+
+Put new website live! [Full Circuit Electric](fullcircuitnj.com)
