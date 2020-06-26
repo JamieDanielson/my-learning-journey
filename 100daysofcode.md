@@ -1,54 +1,65 @@
 # #100 days of code
 
 ## 1/100
-Started [Intermediate React Tutorial - Todoist Clone (with Firebase, Custom Hooks, SCSS, React Testing)](https://www.youtube.com/watch?v=hT3j87FMR6M
-)
+
+Started [Intermediate React Tutorial - Todoist Clone (with Firebase, Custom Hooks, SCSS, React Testing)](https://www.youtube.com/watch?v=hT3j87FMR6M)
 
 ## 2/100
+
 Wes Bos [JavaScript30 - Fun with HTML5 Canvas](https://javascript30.com/)
 
 And just some messing around HTML & CSS
 
 ## 3/100
+
 Wes Bos [JavaScript30 - Dev Tool Domination](https://javascript30.com/)
 
 Created configs directory for eslint, prettier, etc. to use in all projects going forward
 
 ## 4/100
+
 Wes Bos [JavaScript30 - Hold Shift and Check Checkboxes](https://javascript30.com/)
 
-Practiced command line 
+Practiced command line
 
 ## 5/100
+
 Started Wes Bos [JavaScript30 - Custom HTML5 player](https://javascript30.com/)
 
 Did some work-related tasks
 
 ## 6/100
+
 [Learning and Practicing http requests](https://launchschool.com/books/http/)
 
 Setting up virtual machine
 
 ## 7/100
+
 [Codecademy Introduction to JavaScript](https://www.codecademy.com/learn/introduction-to-javascript)
 
 ## 8/100
+
 [freeCodeCamp Basic Javascript](https://www.freecodecamp.org/learn)
 
 Finished "Basic JavaScript" section of JavaScript Algorithms and Data Structures Certification... onto ES6 section.
 
 ## 9/100
+
 [freeCodeCamp ES6](https://www.freecodecamp.org/learn)
 
 ## 10/100
+
 [freeCodeCamp ES6](https://www.freecodecamp.org/learn)
 
 [Khan Academy Relational Tables in SQL](https://www.khanacademy.org/computing/computer-programming/sql)
 
 ## 11/100
+
 [CS50X | Harvard](https://cs50.harvard.edu/x/2020/)
 
 ## 12/100
+
 [freeCodeCamp ES6](https://www.freecodecamp.org/learn)
 
 Finished "ES6" section of JavaScript Algorithms and Data Structures Certification... onto Regular Expressions.
@@ -61,7 +72,7 @@ Finished "ES6" section of JavaScript Algorithms and Data Structures Certificatio
 
 ## 14/100
 
-Learning about and experimenting with APIs i.e. https://uinames.com/ and https://datausa.io/ and https://randomuser.me/ among others
+Learning about and experimenting with APIs i.e. <https://uinames.com/> and <https://datausa.io/> and <https://randomuser.me/> among others
 
 ## 15/100
 
@@ -87,7 +98,7 @@ Finished "Regular Expressions" and "Debugging" sections of JavaScript Algorithms
 
 Finished Assignment 6
 
-[CS50x | Harvard](https://cs50.harvard.edu/x/2020/) 
+[CS50x | Harvard](https://cs50.harvard.edu/x/2020/)
 
 Finished Week 1 - C
 
@@ -111,7 +122,7 @@ Finished Week 1 - C
 
 [Object Oriented Programming | freeCodeCamp](https://www.freecodecamp.org/learn)
 
-Finished "Basic Data Structures" and started "Basic Algorithm Scripting" sections of JavaScript Algorithms and Data Structures Certification.  Started and finished "Object Oriented Programming" section.
+Finished "Basic Data Structures" and started "Basic Algorithm Scripting" sections of JavaScript Algorithms and Data Structures Certification. Started and finished "Object Oriented Programming" section.
 
 ## 22/100
 
@@ -131,7 +142,7 @@ Miscellaneous SQL practice problems on [HackerRank](https://www.hackerrank.com/d
 
 [A re-introduction to JavaScript | MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript)
 
-I skipped ahead to sticky nav because it's highly useful and seemed interesting; simple but super effective!  Then spent some time reading a "reintroduction to JavaScript" on MDN per a suggestion prior to learning React.
+I skipped ahead to sticky nav because it's highly useful and seemed interesting; simple but super effective! Then spent some time reading a "reintroduction to JavaScript" on MDN per a suggestion prior to learning React.
 
 Also started outlining and working on a blog, with files in markdown.
 
@@ -215,7 +226,7 @@ Worked on website that will go live soon. Changed out pictures and some services
 
 ## 39/100
 
-Practice with CSS Grid and animations. 
+Practice with CSS Grid and animations.
 
 [JavaScript30 - Tally String Times with Reduce | Wes Bos](https://javascript30.com/)
 
@@ -231,5 +242,6 @@ Put new website live! [Full Circuit Electric](fullcircuitnj.com)
 
 [Express Crash Course | Traversy Media](https://www.youtube.com/watch?v=L72fhGm1tfE)
 
-had some trouble with the Express course because I couldn't get ejs to work properly, it kept erroring out even though it was installed.
+had some trouble with the Express course because I couldn't get ejs to work properly, it kept erroring out even though it was installed. Will try again.
 
+[M220JS: MongoDB for Javascript Developers](https://university.mongodb.com/mercury/M220JS/2020_June_23/overview)
