@@ -240,8 +240,8 @@ Put new website live! [Full Circuit Electric](fullcircuitnj.com)
 
 ## 41/100
 
-[Express Crash Course | Traversy Media](https://www.youtube.com/watch?v=L72fhGm1tfE)
-
-had some trouble with the Express course because I couldn't get ejs to work properly, it kept erroring out even though it was installed. Will try again.
+had some trouble with an Express course because I couldn't get ejs to work properly, it kept erroring out even though it was installed. Was planning ot try again but I apparently bookmarked the wrong link so not sure I will be going back to it. I have seen some other tutorials using ejs so I will have the opportunity to try again.
 
 [M220JS: MongoDB for Javascript Developers](https://university.mongodb.com/mercury/M220JS/2020_June_23/overview)
+
+[JavaScript BookList App | Traversy Media](https://www.youtube.com/watch?v=JaMCxVWtW58)
