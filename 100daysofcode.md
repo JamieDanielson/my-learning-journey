@@ -226,3 +226,10 @@ Practice with CSS Grid and animations.
 Some practice projects on [Front End Mentor](https://www.frontendmentor.io/) including [Four Card feature section](https://www.frontendmentor.io/challenges/four-card-feature-section-weK1eFYK) and [Single price grid component](https://www.frontendmentor.io/challenges/single-price-grid-component-5ce41129d0ff452fec5abbbc)
 
 Put new website live! [Full Circuit Electric](fullcircuitnj.com)
+
+## 41/100
+
+[Express Crash Course | Traversy Media](https://www.youtube.com/watch?v=L72fhGm1tfE)
+
+had some trouble with the Express course because I couldn't get ejs to work properly, it kept erroring out even though it was installed.
+
