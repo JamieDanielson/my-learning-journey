@@ -245,3 +245,7 @@ had some trouble with an Express course because I couldn't get ejs to work prope
 [M220JS: MongoDB for Javascript Developers](https://university.mongodb.com/mercury/M220JS/2020_June_23/overview)
 
 [JavaScript BookList App | Traversy Media](https://www.youtube.com/watch?v=JaMCxVWtW58)
+
+## 42/100
+
+[TypeScript Crash Course | Traversy Media](https://youtu.be/rAy_3SIqT-E)
