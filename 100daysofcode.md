@@ -249,3 +249,5 @@ had some trouble with an Express course because I couldn't get ejs to work prope
 ## 42/100
 
 [TypeScript Crash Course | Traversy Media](https://youtu.be/rAy_3SIqT-E)
+
+[TypeScript Setup with Node and Express | Traversy Media](https://youtu.be/zRo2tvQpus8)
