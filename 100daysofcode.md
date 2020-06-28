@@ -251,3 +251,9 @@ had some trouble with an Express course because I couldn't get ejs to work prope
 [TypeScript Crash Course | Traversy Media](https://youtu.be/rAy_3SIqT-E)
 
 [TypeScript Setup with Node and Express | Traversy Media](https://youtu.be/zRo2tvQpus8)
+
+## 43/100
+
+[Front End Mentor | Bookmark Landing Page](https://www.frontendmentor.io/challenges/bookmark-landing-page-5d0b588a9edda32581d29158)
+
+Finished the desktop version but still need to do mobile.
