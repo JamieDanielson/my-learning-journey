@@ -261,3 +261,9 @@ Finished the desktop version but still need to do mobile.
 ## 44/100
 
 Work on website primarily built with CSS Grid
+
+## 45/100
+
+[javascript-basic-projects](https://github.com/JamieDanielson/javascript-basic-projects) with my own adjustments and main page for showcase.
+
+Completed and expanded upon "color flipper" so now it's a single page and lets you randomly generate 3 different colors.
