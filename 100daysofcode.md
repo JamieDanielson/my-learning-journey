@@ -267,3 +267,7 @@ Work on website primarily built with CSS Grid
 [javascript-basic-projects](https://github.com/JamieDanielson/javascript-basic-projects) with my own adjustments and main page for showcase.
 
 Completed and expanded upon "color flipper" so now it's a single page and lets you randomly generate 3 different colors.
+
+## 46/100
+
+Started "my-book-app" using React with Storybook and Styleguidist so far.
