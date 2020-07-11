@@ -271,3 +271,7 @@ Completed and expanded upon "color flipper" so now it's a single page and lets y
 ## 46/100
 
 Started "my-book-app" using React with Storybook and Styleguidist so far.
+
+## 47/100
+
+Updated my portfolio website (<https://jamiedanielson.github.io/portfolio/>)
