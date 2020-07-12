@@ -275,3 +275,7 @@ Started "my-book-app" using React with Storybook and Styleguidist so far.
 ## 47/100
 
 Updated my portfolio website (<https://jamiedanielson.github.io/portfolio/>)
+
+## 48/100
+
+Created a blog using Gatsby (<https://jamied-website.netlify.app/>)
