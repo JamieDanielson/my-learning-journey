@@ -279,3 +279,5 @@ Updated my portfolio website (<https://jamiedanielson.github.io/portfolio/>)
 ## 48/100
 
 Created a blog using Gatsby (<https://jamied-website.netlify.app/>)
+
+Updated mobile version of [Front End Mentor | Bookmark Landing Page](https://www.frontendmentor.io/challenges/bookmark-landing-page-5d0b588a9edda32581d29158)
