@@ -285,3 +285,7 @@ Updated mobile version of [Front End Mentor | Bookmark Landing Page](https://www
 ## 49/100
 
 Working on my-book-app. Lots of struggles because of trying to do too many things at once... but I got a a front-end and mongodb hooked up with the ability to add books.
+
+## 50/100
+
+Much better progress on my-book-app! Successfully have books and author lists, with ability to add each. Created a TODO of additional features to work on.
