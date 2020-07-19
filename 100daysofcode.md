@@ -281,3 +281,7 @@ Updated my portfolio website (<https://jamiedanielson.github.io/portfolio/>)
 Created a blog using Gatsby (<https://jamied-website.netlify.app/>)
 
 Updated mobile version of [Front End Mentor | Bookmark Landing Page](https://www.frontendmentor.io/challenges/bookmark-landing-page-5d0b588a9edda32581d29158)
+
+## 49/100
+
+Working on my-book-app. Lots of struggles because of trying to do too many things at once... but I got a a front-end and mongodb hooked up with the ability to add books.
