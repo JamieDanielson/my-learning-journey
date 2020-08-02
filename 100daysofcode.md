@@ -293,3 +293,7 @@ Much better progress on my-book-app! Successfully have books and author lists, w
 ## 51/100
 
 Work on make-me-feel, a site that has various moods that you can select that will then display appropriate things to fit that mood. For example, make me laugh or make me happy might have a joke or a feel-good quote. Written all vanilla, planning on using open APIs for pulling in quotes and images.
+
+## 52/100
+
+Bookplus book review blog from MongoDB tutorial (<https://developer.mongodb.com/how-to/gatsby-modern-blog>)
