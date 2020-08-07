@@ -297,3 +297,7 @@ Work on make-me-feel, a site that has various moods that you can select that wil
 ## 52/100
 
 Bookplus book review blog from MongoDB tutorial (<https://developer.mongodb.com/how-to/gatsby-modern-blog>)
+
+## 53/100
+
+Back to the basics! Reading, notes, and exercises (tasks) all about the DOM from [javascript.info](https://javascript.info/)
