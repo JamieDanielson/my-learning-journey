@@ -305,3 +305,11 @@ Back to the basics! Reading, notes, and exercises (tasks) all about the DOM from
 ## 54/100
 
 More [javascript.info](https://javascript.info/)
+
+## 55/100
+
+[Interactivity with JavaScript | University of Michigan (Coursera)](https://www.coursera.org/learn/javascript/home/welcome)
+
+## 56/100
+
+[Interactivity with JavaScript | University of Michigan (Coursera)](https://www.coursera.org/learn/javascript/home/welcome)
