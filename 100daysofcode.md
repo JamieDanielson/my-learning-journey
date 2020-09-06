@@ -317,3 +317,7 @@ More [javascript.info](https://javascript.info/)
 ## 57/100
 
 Troubleshooting issues with my VirtualBox and writing up a post on it. Practicing different exercises in linux terminal.
+
+## 58/100
+
+Working on my blog
