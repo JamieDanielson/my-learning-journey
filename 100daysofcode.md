@@ -313,3 +313,7 @@ More [javascript.info](https://javascript.info/)
 ## 56/100
 
 [Interactivity with JavaScript | University of Michigan (Coursera)](https://www.coursera.org/learn/javascript/home/welcome)
+
+## 57/100
+
+Troubleshooting issues with my VirtualBox and writing up a post on it. Practicing different exercises in linux terminal.
