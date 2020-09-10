@@ -1,6 +1,6 @@
 # My Learning Journey
 
-based on [GitHub - kamranahmedse/developer-roadmap: Roadmap to becoming a web developer in 2019](https://github.com/kamranahmedse/developer-roadmap)
+Update 2020 - based on [GitHub - kamranahmedse/developer-roadmap: Roadmap to becoming a web developer in 2020](https://github.com/kamranahmedse/developer-roadmap)
 
 ## What to Learn
 
@@ -9,7 +9,6 @@ based on [GitHub - kamranahmedse/developer-roadmap: Roadmap to becoming a web de
 - [x] Git - Version Control
 - [x] Basic Terminal Usage
 - [ ] Data Structures & Algorithms
-- [ ] SOLID, KISS, YAGNI
 - [x] Github
 - [ ] Licenses
 - [x] Semantic Versioning
@@ -20,12 +19,26 @@ based on [GitHub - kamranahmedse/developer-roadmap: Roadmap to becoming a web de
 
 ### Front-end
 
-- [x] HTML
+- [x] **Internet**
+
+  - [x] How does the internet work?
+  - [x] What is HTTP?
+  - [x] Browsers and how they work?
+  - [x] DNS and how it works?
+  - [x] What is Domain Name?
+  - [x] What is hosting?
+
+- [x] **HTML**
+
   - [x] Learn the basics
   - [x] Writing Semantic HTML
-  - [x] Basic SEO
+  - [x] Forms and Validations
+  - [x] Conventions and Best Practices
+  - [x] SEO Basics
   - [x] Accessibility
-- [x] CSS
+
+- [x] **CSS**
+
   - [x] Learn the Basics
   - [x] Making Layouts
     - [x] Floats
@@ -34,9 +47,10 @@ based on [GitHub - kamranahmedse/developer-roadmap: Roadmap to becoming a web de
     - [x] Box Model
     - [x] CSS Grid
     - [x] Flexbox
-  - [x] Media Queries
-  - [x] Learn CSS 3
-- [ ] Basics of JavaScript
+  - [x] Responsive Design and Media Queries
+
+- [ ] **Basics of JavaScript**
+
   - [x] Syntax and Basic Constructs
   - [x] Learn DOM Manipulation
   - [x] Learn Fetch API / Ajax (XHR)
@@ -50,31 +64,43 @@ based on [GitHub - kamranahmedse/developer-roadmap: Roadmap to becoming a web de
     - [x] how browsers work
     - [x] DNS
     - [x] HTTP
-- [ ] Package Managers
+
+- [x] **Version Control Systems (what they are and why you should use one)**
+
+  - [x] Repo hosting services
+    - [x] GitHub
+    - [x] BitBucket
+  - [x] Basic Usage of Git
+
+- [ ] **Web Security Knowledge**
+
+- [ ] **Package Managers**
+
   - [x] npm
   - [ ] yarn
-- [ ] CSS Pre-processors
+
+- [ ] **CSS Pre-processors**
+
   - [x] SASS
   - [ ] PostCSS and Less (general understanding, focus on SASS)
-- [x] CSS Frameworks
-  - [x] Bootstrap
-  - [x] Materialize CSS, Bulma, Semantic UI (general understanding, focus on Bootstrap)
-- [x] CSS Architecture
+
+- [x] **CSS Architecture**
+
   - [x] BEM (block element modifier)
-  - [x] OOCSS & SMACSS (general understanding, focus on BEM)
-- [ ] Build Tools
+
+- [ ] **Build Tools**
+
   - [x] Linters and Formatters
     - [x] Prettier
     - [x] ES Lint
-    - [x] JSHint, JSLint, JSCS (general understanding, focus on Prettier & ES Lint)
   - [ ] Task Runners
     - [x] npm scripts
-    - [ ] gulp
   - [ ] Module Bundlers
     - [ ] Webpack
     - [ ] Parcel and Rollup (general understanding, focus on Webpack)
-- [ ] Single Page Applications - understand how they work and pros/cons
-- [ ] Pick a Framework
+
+- [ ] **Pick a Framework**
+
   - [ ] React.js
     - [ ] Redux
     - [ ] MobX
@@ -83,19 +109,44 @@ based on [GitHub - kamranahmedse/developer-roadmap: Roadmap to becoming a web de
     - [ ] ngrx
   - [ ] Vue.js
     - [ ] Vuex
-- [ ] CSS in JS
-  - [ ] Styled Components
+
+- [ ] **Modern CSS**
+
+  - [ ] Styled Component
   - [ ] CSS Modules
-  - [ ] Emotion, Radium, Glamorous (general understanding, focus on components & modules)
-- [ ] Testing Your Apps
+  - [ ] Styled JSX
+  - [ ] Emotion
+
+- [ ] **Web Components**
+
+  - [x] HTML Templates
+  - [ ] Custom Elements
+  - [ ] Shadow DOM
+
+- [x] CSS Frameworks
+
+  - [ ] CSS First - don't come with JS components by default
+    - [x] Bootstrap
+    - [x] Materialize CSS, Bulma, Semantic UI (general understanding, focus on Bootstrap)
+  - [ ] JS Based and better to use with framework based on JS applications
+    - [ ] Reactstrap
+    - [ ] Material UI
+    - [ ] Tainwind CSS
+    - [ ] Chakra UI
+
+- [ ] **Testing Your Apps, Learn the difference between Unit, Integration, Functional tests**
+
   - [ ] Jest
+  - [ ] react-testing-library
   - [ ] Enzyme
   - [ ] Cypress
-  - [ ] Different types of testing
-    - [ ] Unit
-    - [ ] Integration
-    - [ ] Functional
-- [ ] Progressive Web Apps
+
+- [ ] **Type Checkers**
+
+  - [ ] Typescript
+
+- [ ] **Progressive Web Apps**
+
   - [ ] Web APIs
     - [ ] Storage
     - [ ] Web Sockets
@@ -111,29 +162,67 @@ based on [GitHub - kamranahmedse/developer-roadmap: Roadmap to becoming a web de
     - [x] Performance Metrics
     - [x] Using Lighthouse
     - [x] Using DevTools
-- [ ] Type Checkers
-  - [ ] Typescript
-  - [ ] Flow
-- [ ] Server Side Rendering
+
+- [ ] **Server Side Rendering**
+
   - [ ] React.js
     - [ ] Next.js
-    - [ ] After.js
   - [ ] Angular
     - [ ] Universal
   - [ ] Vue.js
     - [ ] Nuxt.js
-- [x] Static Site Generators
+
+- [ ] **GraphQL**
+
+  - [ ] Apollo
+  - [ ] Relay Modern
+
+- [ ] **Static Site Generators**
+
+  - [ ] Next.js
   - [x] GatsbyJS
-  - [x] Jekyll
-- [ ] Desktop Applications
-  - [ ] Electron
-  - [ ] Proton Native and Carlo (general understanding, focus on Electron)
-- [ ] Mobile Applications
+  - [ ] Nust.js
+  - [ ] Vuepress
+  - [ ] Jekyll
+  - [ ] Hugo
+  - [ ] Gridsome
+
+- [ ] **Mobile Applications**
+
   - [ ] React Native
   - [ ] NativeScript
-- [ ] Web Assembly
+  - [ ] Flutter
+  - [ ] Ionic
+
+- [ ] **Desktop Applications**
+
+  - [ ] Electron
+
+- [ ] **Web Assembly**
 
 ### Back-end
+
+- [x] **Internet**
+
+  - [x] How does the internet work?
+  - [x] What is HTTP?
+  - [x] Browsers and how they work?
+  - [x] DNS and how it works?
+  - [x] What is Domain Name?
+  - [x] What is hosting?
+
+- [x] **Basic Frontend Knowledge**
+
+  - [x] HTML
+  - [x] CSS
+  - [x] JavaScript
+
+- [x] **OS and General Knowledge**
+
+  - [x] Terminal Usage
+  - [ ] How OSs work in general
+  - [ ] Process management
+  - [ ] Threads and concurrency
 
 - [ ] Pick a Language
   - [ ] Scripting Languages
