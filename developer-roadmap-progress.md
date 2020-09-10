@@ -12,11 +12,11 @@ based on [GitHub - kamranahmedse/developer-roadmap: Roadmap to becoming a web de
 - [ ] SOLID, KISS, YAGNI
 - [x] Github
 - [ ] Licenses
-- [ ] Semantic Versioning
-- [ ] SSH
-- [ ] HTTP/HTTPS and APIs
+- [x] Semantic Versioning
+- [x] SSH
+- [x] HTTP/HTTPS and APIs
 - [ ] Design Patterns
-- [ ] Character Encodings
+- [x] Character Encodings
 
 ### Front-end
 
@@ -37,38 +37,38 @@ based on [GitHub - kamranahmedse/developer-roadmap: Roadmap to becoming a web de
   - [x] Media Queries
   - [x] Learn CSS 3
 - [ ] Basics of JavaScript
-  - [ ] Syntax and Basic Constructs
-  - [ ] Learn DOM Manipulation
-  - [ ] Learn Fetch API / Ajax (XHR)
-  - [ ] ES6+ and modular JavaScript
+  - [x] Syntax and Basic Constructs
+  - [x] Learn DOM Manipulation
+  - [x] Learn Fetch API / Ajax (XHR)
+  - [x] ES6+ and modular JavaScript
   - [ ] Understand the concepts
-    - [ ] Hosting
+    - [ ] Hoisting
     - [ ] Event Bubbling
     - [ ] Scope Prototype
     - [ ] Shadow DOM
-    - [ ] strict,
-    - [ ] how browsers work
-    - [ ] DNS
-    - [ ] HTTP
+    - [x] strict,
+    - [x] how browsers work
+    - [x] DNS
+    - [x] HTTP
 - [ ] Package Managers
-  - [ ] npm
+  - [x] npm
   - [ ] yarn
 - [ ] CSS Pre-processors
-  - [ ] SASS
+  - [x] SASS
   - [ ] PostCSS and Less (general understanding, focus on SASS)
-- [ ] CSS Frameworks
-  - [ ] Bootstrap
-  - [ ] Materialize CSS, Bulma, Semantic UI (general understanding, focus on Bootstrap)
-- [ ] CSS Architecture
-  - [ ] BEM (block element modifier)
-  - [ ] OOCSS & SMACSS (general understanding, focus on BEM)
+- [x] CSS Frameworks
+  - [x] Bootstrap
+  - [x] Materialize CSS, Bulma, Semantic UI (general understanding, focus on Bootstrap)
+- [x] CSS Architecture
+  - [x] BEM (block element modifier)
+  - [x] OOCSS & SMACSS (general understanding, focus on BEM)
 - [ ] Build Tools
-  - [ ] Linters and Formatters
-    - [ ] Prettier
-    - [ ] ES Lint
-    - [ ] JSHint, JSLint, JSCS (general understanding, focus on Prettier & ES Lint)
+  - [x] Linters and Formatters
+    - [x] Prettier
+    - [x] ES Lint
+    - [x] JSHint, JSLint, JSCS (general understanding, focus on Prettier & ES Lint)
   - [ ] Task Runners
-    - [ ] npm scripts
+    - [x] npm scripts
     - [ ] gulp
   - [ ] Module Bundlers
     - [ ] Webpack
@@ -108,9 +108,9 @@ based on [GitHub - kamranahmedse/developer-roadmap: Roadmap to becoming a web de
   - [ ] Calculating, Measuring and improving performance
     - [ ] PRPL Pattern
     - [ ] RAIL Model
-    - [ ] Performance Metrics
-    - [ ] Using Lighthouse
-    - [ ] Using DevTools
+    - [x] Performance Metrics
+    - [x] Using Lighthouse
+    - [x] Using DevTools
 - [ ] Type Checkers
   - [ ] Typescript
   - [ ] Flow
@@ -122,9 +122,9 @@ based on [GitHub - kamranahmedse/developer-roadmap: Roadmap to becoming a web de
     - [ ] Universal
   - [ ] Vue.js
     - [ ] Nuxt.js
-- [ ] Static Site Generators
-  - [ ] GatsbyJS
-  - [ ] Jekyll
+- [x] Static Site Generators
+  - [x] GatsbyJS
+  - [x] Jekyll
 - [ ] Desktop Applications
   - [ ] Electron
   - [ ] Proton Native and Carlo (general understanding, focus on Electron)
@@ -140,7 +140,7 @@ based on [GitHub - kamranahmedse/developer-roadmap: Roadmap to becoming a web de
     - [ ] Python
     - [ ] Ruby
     - [ ] PHP
-    - [ ] Node.js
+    - [x] Node.js
     - [ ] TypeScript
   - [ ] Functional Languages
     - [ ] Elixir
@@ -154,8 +154,8 @@ based on [GitHub - kamranahmedse/developer-roadmap: Roadmap to becoming a web de
     - [ ] Golang
     - [ ] Rust
 - [ ] Practice what you learned
-- [ ] Learn Package Manager
-  - [ ] PHP has composer, Node.js has NPM and yarn, Python has pip, Ruby has gems
+- [x] Learn Package Manager
+  - [x] PHP has composer, Node.js has NPM and yarn, Python has pip, Ruby has gems
 - [ ] Standards and Best Practices
 - [ ] Make and Distribute Some Package/Library
   - [ ] Contribute to some opensource project
@@ -165,25 +165,25 @@ based on [GitHub - kamranahmedse/developer-roadmap: Roadmap to becoming a web de
 - [ ] Learn about testing
   - [ ] Write unit and integration tests
   - [ ] Understand different testing terminologies (mocks, stubs, etc)
-- [ ] Write tests for hte practical steps above
+- [ ] Write tests for the practical steps above
 - [ ] Learn Relational Databases
-  - [ ] MySQL
+  - [x] MySQL
   - [ ] MariaDB
   - [ ] PostgreSQL
-  - [ ] Oracle and MSSQL
+  - [x] Oracle and MSSQL
 - [ ] Practical Time
   - [ ] Create sample application using everything learned, including
     - [ ] registration
     - [ ] login
-    - [ ] CRUD (Create, Read, Update, Delete)
+    - [x] CRUD (Create, Read, Update, Delete)
 - [ ] Learn a Framework
-- [ ] Learn a NoSQL Database
-  - [ ] MongoDB
+- [x] Learn a NoSQL Database
+  - [x] MongoDB
 - [ ] Caching
   - [ ] Memcached
   - [ ] Redis
-- [ ] Creating RESTful APIs
-  - [ ] REST (REpresentational State Transfer)
+- [x] Creating RESTful APIs
+  - [x] REST (REpresentational State Transfer)
 - [ ] Authentication / Authorization Methodologies
   - [ ] OAuth
   - [ ] Basic Authentication
@@ -200,7 +200,7 @@ based on [GitHub - kamranahmedse/developer-roadmap: Roadmap to becoming a web de
 - [ ] Knowledge of Web Servers
   - [ ] Apache
   - [ ] Nginx
-  - [ ] MS IIS
+  - [x] MS IIS
 - [ ] Learn how to use Web Sockets
 - [ ] Learn GraphQL
 - [ ] Look into Graph Databases
@@ -215,7 +215,7 @@ based on [GitHub - kamranahmedse/developer-roadmap: Roadmap to becoming a web de
 - [ ] Learn a Programming Language
   - [ ] Python
   - [ ] Ruby
-  - [ ] Node.JS
+  - [x] Node.JS
   - [ ] Go
   - [ ] Rust
   - [ ] C / C++
@@ -252,7 +252,7 @@ based on [GitHub - kamranahmedse/developer-roadmap: Roadmap to becoming a web de
   - [ ] Load Balancer
   - [ ] Firewall
   - [ ] Web Server
-    - [ ] IIS
+    - [x] IIS
     - [ ] Apache
     - [ ] Nginx
 - [ ] Learn Infrastructure as Code
@@ -273,10 +273,10 @@ based on [GitHub - kamranahmedse/developer-roadmap: Roadmap to becoming a web de
     - [ ] Nagios, Incinga, Datadog, Zabbix, Monit
   - [ ] Application Monitoring
     - [ ] AppDynamics
-    - [ ] New Relic
+    - [x] New Relic
   - [ ] Logs Management
     - [ ] ELK Stack, Graylog, Splunk, Papertrail
   - [ ] Cloud Providers
     - [ ] AWS
     - [ ] Google Cloud
-    - [ ] Azure
+    - [x] Azure
