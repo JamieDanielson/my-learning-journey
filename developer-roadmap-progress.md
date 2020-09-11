@@ -223,83 +223,165 @@ Update 2020 - based on [GitHub - kamranahmedse/developer-roadmap: Roadmap to bec
   - [ ] How OSs work in general
   - [ ] Process management
   - [ ] Threads and concurrency
+  - [ ] Basic Terminal Commends
+    - [ ] grep, awk, sed, lsof, curl, wget, tail, head, less, find, ssh, kill
+  - [ ] Memory Management
+  - [ ] Interprocess Communication
+  - [ ] I/O Management
+  - [ ] POSIX Basics
+    - [ ] stdin, stdout, stderr, pipes
+  - [ ] Basic Networking Concepts
 
-- [ ] Pick a Language
-  - [ ] Scripting Languages
-    - [ ] Python
-    - [ ] Ruby
-    - [ ] PHP
-    - [x] Node.js
-    - [ ] TypeScript
-  - [ ] Functional Languages
-    - [ ] Elixir
-    - [ ] Scala
-    - [ ] Erlang
-    - [ ] Clojure
-    - [ ] Haskell
-  - [ ] Other Options
-    - [ ] Java
-    - [ ] .NET
-    - [ ] Golang
-    - [ ] Rust
-- [ ] Practice what you learned
-- [x] Learn Package Manager
-  - [x] PHP has composer, Node.js has NPM and yarn, Python has pip, Ruby has gems
-- [ ] Standards and Best Practices
-- [ ] Make and Distribute Some Package/Library
-  - [ ] Contribute to some opensource project
-  - [ ] Refactor and implement best practices you learned
-  - [ ] Look into open issues and try to resolve
-  - [ ] Add any additional functionality
-- [ ] Learn about testing
-  - [ ] Write unit and integration tests
-  - [ ] Understand different testing terminologies (mocks, stubs, etc)
-- [ ] Write tests for the practical steps above
-- [ ] Learn Relational Databases
+- [ ] **Learn a Language**
+
+- [ ] Java
+- [ ] C#
+- [ ] PHP
+- [ ] JavaScript
+- [ ] Python
+- [ ] Ruby
+
+- [ ] **Version Control Systems**
+
+  - [ ] Basic Usage of Git
+
+- [ ] **Repo Hosting Services**
+
+  - [ ] GitHub
+
+- [ ] **Relational Databases**
+
+  - [ ] PostgreSQL
   - [x] MySQL
   - [ ] MariaDB
-  - [ ] PostgreSQL
-  - [x] Oracle and MSSQL
-- [ ] Practical Time
-  - [ ] Create sample application using everything learned, including
-    - [ ] registration
-    - [ ] login
-    - [x] CRUD (Create, Read, Update, Delete)
-- [ ] Learn a Framework
-- [x] Learn a NoSQL Database
+  - [x] MS SQL
+  - [ ] Oracle
+
+- [ ] **More about Databases**
+
+  - [ ] ORMs
+  - [ ] ACID
+  - [ ] Transactions
+  - [ ] N+1 Problem
+  - [ ] Database Normalization
+  - [ ] Indexes and how they work
+  - [ ] Data Replication
+  - [ ] Sharding Strategies
+  - [ ] CAP Theorem
+
+- [ ] **NoSQL Databases**
+
   - [x] MongoDB
-- [ ] Caching
-  - [ ] Memcached
-  - [ ] Redis
-- [x] Creating RESTful APIs
-  - [x] REST (REpresentational State Transfer)
-- [ ] Authentication / Authorization Methodologies
-  - [ ] OAuth
-  - [ ] Basic Authentication
-  - [ ] Token Authentication
-  - [ ] JWT
-  - [ ] OpenID
-- [ ] Message Brokers
-  - [ ] RabbitMQ
-  - [ ] Kafka
-- [ ] Learn a Search Engine
+  - [ ] RethinkDB
+  - [ ] CouchDB
+  - [ ] DynamoDB
+
+- [ ] **Learn About APIs**
+  - [ ] HATEOAS
+  - [ ] Open API Spec and Swagger
+  - [ ] Authentication
+    - [ ] Cookie Based
+    - [ ] OAuth
+    - [ ] Basic Authentication
+    - [ ] Token Authentication
+    - [ ] JWT
+    - [ ] OpenID
+    - [ ] SAML
+  - [x] REST
+  - [x] JSON APIs
+  - [ ] SOAP
+  - [ ] gRPC
+
+* [ ] **Caching**
+  - [ ] CDN
+  - [ ] Server Side
+    - [ ] Memcached
+    - [ ] Redis
+  * [ ] Client Side
+
+- [ ] **Web Security Knowledge**
+
+  - [ ] Hashing Algorithms
+    - [ ] MD5 and why not to use it
+    - [ ] SHA Family
+    - [ ] script
+    - [ ] bcrypt
+  - [ ] HTTPS
+  - [ ] CORS
+  - [ ] Content Security Policy
+  - [ ] SSL/TLS
+  - [ ] OWASP Security Risks
+
+- [ ] **Testing**
+
+  - [ ] Integration Testing
+  - [ ] Unit Testing
+  - [ ] Functional Testing
+
+- [ ] **CI / CD**
+
+- [ ] **Design and Development Principles**
+
+  - [ ] GOF Design Patterns
+  - [ ] Domain Driven Design
+  - [ ] Test Driven Development
+  - [ ] SOLID
+  - [ ] KISS
+  - [ ] YAGNI
+  - [ ] DRY
+  - [ ] Architectural Patterns
+    - [ ] Monolithic Apps
+    - [ ] Microservices
+    - [ ] SOA
+    - [ ] CQRS and Event Sourcing
+    - [ ] Serverless
+
+- [ ] **Search Engines**
+
   - [ ] Elastic Search
   - [ ] Solr
-- [ ] Learn How to Use Docker
-- [ ] Knowledge of Web Servers
+
+- [ ] **Message Brokers**
+
+  - [ ] RabbitMQ
+  - [ ] Kafka
+
+- [ ] **Containerization vs Virtualization**
+
+- [ ] **GraphQL**
+
+  - [ ] Apollo
+  - [ ] Relay Modern
+
+- [ ] **Graph Databases**
+
+  - [ ] Neo4j
+
+- [ ] **Web Sockets**
+
+- [ ] **Web Servers**
+
   - [ ] Apache
   - [ ] Nginx
+  - [ ] Caddy
   - [x] MS IIS
-- [ ] Learn how to use Web Sockets
-- [ ] Learn GraphQL
-- [ ] Look into Graph Databases
-- [ ] All the things that weren't mentioned
-  - [ ] Profiling
-  - [ ] Static Analysis
-  - [ ] DDD
-  - [ ] SOAP
 
-### DevOps
+- [ ] **Building for Scale**
+  - [ ] Mitigation Strategies
+    - [ ] Graceful Degradation
+    - [ ] Throttling
+    - [ ] Backpressure
+    - [ ] Loadshifting
+    - [ ] Circuit Breaker
+  - [ ] Understand the Difference
+    - [ ] Instrumentation
+    - [ ] Monitoring
+    - [ ] Telemetry
+  - [ ] Horizontal vs Vertical Scaling
+  - [ ] Building with Observability in mind
+    - [ ] Metrics logging and other observable items that could help in debugging and solving issues when things go wrong.
+
+### DevOps - WIP
 
 - [ ] Learn a Programming Language
   - [ ] Python
