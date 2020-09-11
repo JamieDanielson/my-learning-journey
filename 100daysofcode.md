@@ -321,3 +321,7 @@ Troubleshooting issues with my VirtualBox and writing up a post on it. Practicin
 ## 58/100
 
 Working on my blog
+
+## 59/100
+
+Quiz with React and Typescript, originally followed along with [React / Typescript Tutorial - Build a Quiz App](https://youtu.be/F2JCjVSZlG0) from freeCodeCamp, then started adjusting styling and will add more to it over time. Link to my repo: <https://github.com/JamieDanielson/quiz>
