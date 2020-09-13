@@ -112,9 +112,9 @@ Update 2020 - based on [GitHub - kamranahmedse/developer-roadmap: Roadmap to bec
 
 - [ ] **Modern CSS**
 
-  - [ ] Styled Component
+  - [x] Styled Component
   - [ ] CSS Modules
-  - [ ] Styled JSX
+  - [x] Styled JSX
   - [ ] Emotion
 
 - [ ] **Web Components**
@@ -125,13 +125,13 @@ Update 2020 - based on [GitHub - kamranahmedse/developer-roadmap: Roadmap to bec
 
 - [x] CSS Frameworks
 
-  - [ ] CSS First - don't come with JS components by default
+  - [x] CSS First - don't come with JS components by default
     - [x] Bootstrap
     - [x] Materialize CSS, Bulma, Semantic UI (general understanding, focus on Bootstrap)
   - [ ] JS Based and better to use with framework based on JS applications
     - [ ] Reactstrap
-    - [ ] Material UI
-    - [ ] Tainwind CSS
+    - [x] Material UI
+    - [ ] Tailwind CSS
     - [ ] Chakra UI
 
 - [ ] **Testing Your Apps, Learn the difference between Unit, Integration, Functional tests**
@@ -141,9 +141,9 @@ Update 2020 - based on [GitHub - kamranahmedse/developer-roadmap: Roadmap to bec
   - [ ] Enzyme
   - [ ] Cypress
 
-- [ ] **Type Checkers**
+- [x] **Type Checkers**
 
-  - [ ] Typescript
+  - [x] Typescript
 
 - [ ] **Progressive Web Apps**
 
@@ -241,13 +241,13 @@ Update 2020 - based on [GitHub - kamranahmedse/developer-roadmap: Roadmap to bec
 - [ ] Python
 - [ ] Ruby
 
-- [ ] **Version Control Systems**
+- [x] **Version Control Systems**
 
-  - [ ] Basic Usage of Git
+  - [x] Basic Usage of Git
 
-- [ ] **Repo Hosting Services**
+- [x] **Repo Hosting Services**
 
-  - [ ] GitHub
+  - [x] GitHub
 
 - [ ] **Relational Databases**
 
@@ -277,6 +277,7 @@ Update 2020 - based on [GitHub - kamranahmedse/developer-roadmap: Roadmap to bec
   - [ ] DynamoDB
 
 - [ ] **Learn About APIs**
+
   - [ ] HATEOAS
   - [ ] Open API Spec and Swagger
   - [ ] Authentication
@@ -292,12 +293,13 @@ Update 2020 - based on [GitHub - kamranahmedse/developer-roadmap: Roadmap to bec
   - [ ] SOAP
   - [ ] gRPC
 
-* [ ] **Caching**
-  - [ ] CDN
+- [ ] **Caching**
+
+  - [x] CDN
   - [ ] Server Side
     - [ ] Memcached
     - [ ] Redis
-  * [ ] Client Side
+  - [ ] Client Side
 
 - [ ] **Web Security Knowledge**
 
@@ -306,10 +308,10 @@ Update 2020 - based on [GitHub - kamranahmedse/developer-roadmap: Roadmap to bec
     - [ ] SHA Family
     - [ ] script
     - [ ] bcrypt
-  - [ ] HTTPS
+  - [x] HTTPS
   - [ ] CORS
-  - [ ] Content Security Policy
-  - [ ] SSL/TLS
+  - [x] Content Security Policy
+  - [x] SSL/TLS
   - [ ] OWASP Security Risks
 
 - [ ] **Testing**
