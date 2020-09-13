@@ -325,3 +325,7 @@ Working on my blog
 ## 59/100
 
 Quiz with React and Typescript, originally followed along with [React / Typescript Tutorial - Build a Quiz App](https://youtu.be/F2JCjVSZlG0) from freeCodeCamp, then started adjusting styling and will add more to it over time. Link to my repo: <https://github.com/JamieDanielson/quiz>
+
+## 60/100
+
+Cleanup on my quiz app, including implementing some Material UI styles
