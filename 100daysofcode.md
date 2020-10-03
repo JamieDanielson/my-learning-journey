@@ -329,3 +329,11 @@ Quiz with React and Typescript, originally followed along with [React / Typescri
 ## 60/100
 
 Cleanup on my quiz app, including implementing some Material UI styles
+
+## 61/100
+
+[CS50X | Harvard](https://cs50.harvard.edu/x/2020/)
+
+## 62/100
+
+[CS50X | Harvard](https://cs50.harvard.edu/x/2020/)
