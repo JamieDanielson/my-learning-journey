@@ -337,3 +337,11 @@ Cleanup on my quiz app, including implementing some Material UI styles
 ## 62/100
 
 [CS50X | Harvard](https://cs50.harvard.edu/x/2020/)
+
+## 63/100
+
+[javascript.info](https://javascript.info/)
+
+## 64/100
+
+[javascript.info](https://javascript.info/)
