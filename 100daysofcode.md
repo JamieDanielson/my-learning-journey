@@ -345,3 +345,11 @@ Cleanup on my quiz app, including implementing some Material UI styles
 ## 64/100
 
 [javascript.info](https://javascript.info/)
+
+## 65/100
+
+Testing with MutationObserver which listens for changes in the dom and allows for a function to be rerun following a change.
+
+## 66/100
+
+New blog post on CSS Variables
