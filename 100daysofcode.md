@@ -353,3 +353,9 @@ Testing with MutationObserver which listens for changes in the dom and allows fo
 ## 66/100
 
 New blog post on CSS Variables
+
+## 67/100
+
+Follow along with [Vanilla Node.js REST API with No Framework | Traversy Media](https://youtu.be/_1xa8Bsho6A)
+
+I've been doing a lot in between, especially stuff for work, but am continuing to only track here stuff that I do in my own free time.
