@@ -359,3 +359,11 @@ New blog post on CSS Variables
 Follow along with [Vanilla Node.js REST API with No Framework | Traversy Media](https://youtu.be/_1xa8Bsho6A)
 
 I've been doing a lot in between, especially stuff for work, but am continuing to only track here stuff that I do in my own free time.
+
+## 68/100
+
+Playing around with various APIs including Breaking Bad API, TV Maze API. Also working on xml2js npm package to work with goodreads API because it's all in XML
+
+## 69/100
+
+Finished Front End Mentor project Bookmark Landing Page, created showcase site for completed front end mentor projects, added Bookmark page to portfolio
