@@ -367,3 +367,7 @@ Playing around with various APIs including Breaking Bad API, TV Maze API. Also w
 ## 69/100
 
 Finished Front End Mentor project Bookmark Landing Page, created showcase site for completed front end mentor projects, added Bookmark page to portfolio
+
+## 70/100
+
+Work on movie app in React, read through JavaScript study guides and cheat sheets
