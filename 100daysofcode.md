@@ -371,3 +371,7 @@ Finished Front End Mentor project Bookmark Landing Page, created showcase site f
 ## 70/100
 
 Work on movie app in React, read through JavaScript study guides and cheat sheets
+
+## 71/100
+
+Create site based on [TheCocktailDB API](https://www.thecocktaildb.com/api.php), may add more features later. Currently hosted on github <https://jamiedanielson.github.io/what-shall-i-drink/>
