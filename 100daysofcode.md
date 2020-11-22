@@ -379,3 +379,7 @@ Create site based on [TheCocktailDB API](https://www.thecocktaildb.com/api.php),
 ## 72/100
 
 [Javascript: From Fundamentals to Functional JS, v2 | Frontend Masters](https://frontendmasters.com/courses/js-fundamentals-functional-v2/) Objects section
+
+## 73/100
+
+[Javascript: From Fundamentals to Functional JS, v2 | Frontend Masters](https://frontendmasters.com/courses/js-fundamentals-functional-v2/) List Transformations and forEach sections
