@@ -387,3 +387,7 @@ Create site based on [TheCocktailDB API](https://www.thecocktaildb.com/api.php),
 ## 74/100
 
 [Javascript: From Fundamentals to Functional JS, v2 | Frontend Masters](https://frontendmasters.com/courses/js-fundamentals-functional-v2/) .map, .filter, start fucntions in-depth
+
+## 75/100
+
+[Javascript: From Fundamentals to Functional JS, v2 | Frontend Masters](https://frontendmasters.com/courses/js-fundamentals-functional-v2/) Functions in depth - arrow functions, projecting, spread operator, arguments keyword, default parameters, Array.from. Also a ton of work reviewing Scope, and my first foray into testing with Mocha and Chai!
