@@ -395,3 +395,7 @@ Create site based on [TheCocktailDB API](https://www.thecocktaildb.com/api.php),
 ## 76/100
 
 [Javascript: From Fundamentals to Functional JS, v2 | Frontend Masters](https://frontendmasters.com/courses/js-fundamentals-functional-v2/) Finished course - callbacks, .reduce, passing arguments, currying, composing, advanced scope and closure.
+
+## 77/100
+
+[Javascript: The Hard Parts, v2 | Frontend Masters](https://frontendmasters.com/courses/javascript-hard-parts-v2/) JavaScript principles, functions and callback. Great course so far, really enjoying the energy!
