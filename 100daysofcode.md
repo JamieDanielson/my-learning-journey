@@ -399,3 +399,17 @@ Create site based on [TheCocktailDB API](https://www.thecocktaildb.com/api.php),
 ## 77/100
 
 [Javascript: The Hard Parts, v2 | Frontend Masters](https://frontendmasters.com/courses/javascript-hard-parts-v2/) JavaScript principles, functions and callback. Great course so far, really enjoying the energy!
+
+## 78/100
+
+[Javascript: The Hard Parts, v2 | Frontend Masters](https://frontendmasters.com/courses/javascript-hard-parts-v2/) Closure
+
+## 79/100
+
+[Javascript: The Hard Parts, v2 | Frontend Masters](https://frontendmasters.com/courses/javascript-hard-parts-v2/) Asynchronous JavaScript
+
+Reading through [Cloud Computing for Science and Engineering](https://s3.us-east-2.amazonaws.com/a-book/using_storage.html), specifically so far covering various storage options from Amazon, Microsoft, and Google, including regular file storage, object storage, SQL and no SQL, graph databases and data warehouses.
+
+## 80/100
+
+[Javascript: The Hard Parts, v2 | Frontend Masters](https://frontendmasters.com/courses/javascript-hard-parts-v2/) Asynchronous JavaScript, Promises
