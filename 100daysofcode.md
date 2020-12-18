@@ -413,3 +413,7 @@ Reading through [Cloud Computing for Science and Engineering](https://s3.us-east
 ## 80/100
 
 [Javascript: The Hard Parts, v2 | Frontend Masters](https://frontendmasters.com/courses/javascript-hard-parts-v2/) Asynchronous JavaScript, Promises
+
+## 81/100
+
+[Javascript: The Hard Parts, v2 | Frontend Masters](https://frontendmasters.com/courses/javascript-hard-parts-v2/) Classes & Prototypes
