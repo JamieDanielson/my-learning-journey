@@ -417,3 +417,11 @@ Reading through [Cloud Computing for Science and Engineering](https://s3.us-east
 ## 81/100
 
 [Javascript: The Hard Parts, v2 | Frontend Masters](https://frontendmasters.com/courses/javascript-hard-parts-v2/) Classes & Prototypes
+
+## 82/100 - 91/100
+
+...been a while since I updated this file! During this time though I did more on Frontend Masters, including [Complete Intro to React, v5](https://frontendmasters.com/courses/complete-react-v5/), much of [Full Stack for Front End, v2](https://frontendmasters.com/courses/fullstack-v2/), and some dabbling in Brian Holt's "Intro to Web Development" along with some others. Also created a Scattergories game site that will need to be improved upon, and some other random fun bits. The Intro to React course was absolutely phenomenal and helped me understand a lot of what I'd seen already.
+
+## 92/100
+
+Working on thecocktaildb api again, creating fresh as a React app.
