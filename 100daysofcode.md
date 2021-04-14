@@ -425,3 +425,7 @@ Reading through [Cloud Computing for Science and Engineering](https://s3.us-east
 ## 92/100
 
 Working on thecocktaildb api again, creating fresh as a React app.
+
+## 93/100 - 100/100
+
+Too bad I didn't finish strong with updating this. At this point I'm far beyond but didn't want to leave this without showing 100 days completed. Reading through [Eloquent JavaScript](https://eloquentjavascript.net/), working through [Intermediate Algorithm Scripting | freeCodeCamp](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#intermediate-algorithm-scripting), writing blog posts, buying and setting up a new domain for my blog (jamiedanielson.com), more [Full Stack for Front End, v2](https://frontendmasters.com/courses/fullstack-v2/)... the list goes on. Having a blast and trying to stretch my brain out. Might try another 100 days to keep myself accountable to a schedule, or a shorter version, not decided yet. Either way, won't ever stop learning.
